@@ -49,7 +49,9 @@ Ejemplo (`mi_sala.txt`):
 
 ## 📸 Capturas
 
-*[captura.jpg]*.
+<p align="center">
+  <img src="captura.png" alt="Vista del Sistema de Cine" width="700">
+</p>
 
 ## ✒️ Autores
 
