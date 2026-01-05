@@ -49,11 +49,11 @@ Ejemplo (`mi_sala.txt`):
 
 ## 📸 Capturas
 
-*(Aquí te recomiendo tomar una captura de pantalla de tu consola cuando el programa sugiere asientos dorados y poner la imagen aquí. Si no tienes una, borra esta sección)*.
+**.
 
 ## ✒️ Autores
 
-*   **[GRUPO 4]** - *Desarrollo y Lógica Algorítmica* - [Tu Usuario de GitHub]
+*   **[GRUPO 4]** - *Desarrollo y Lógica Algorítmica*
 
 ---
 *Proyecto realizado para el curso de Organización de Archivos.*
