@@ -55,7 +55,7 @@ Ejemplo (`mi_sala.txt`):
 
 ## ✒️ Autores
 
-*   **[GRUPO 4]** - *Desarrollo y Lógica Algorítmica*
+*   **[GRUPO 3]** - *Desarrollo y Lógica Algorítmica*
 
 ---
 *Proyecto realizado para el curso de Organización de Archivos.*
