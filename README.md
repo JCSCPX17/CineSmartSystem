@@ -49,7 +49,7 @@ Ejemplo (`mi_sala.txt`):
 
 ## 📸 Capturas
 
-**.
+*[captura.jpg]*.
 
 ## ✒️ Autores
 
