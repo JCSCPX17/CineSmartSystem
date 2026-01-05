@@ -4,26 +4,26 @@
 
 Este proyecto simula un sistema de venta y asignación de asientos optimizado. A diferencia de una búsqueda lineal tradicional, este sistema utiliza un **Algoritmo de Búsqueda Heurística** que prioriza la centralidad de la sala y la agrupación de espectadores, evitando asignaciones en esquinas o filas dispersas.
 
-## 🚀 Características Principales
+## Características Principales
 
 *   **Visualización Gráfica en Consola:** Uso de códigos de escape ANSI para renderizar un mapa de la sala con colores:
-    *   🟢 **Verde Oscuro:** Asientos Generales Libres.
-    *   💚 **Verde Neón:** Zona VIP (Mejor visión).
-    *   🔴 **Rojo:** Ocupado.
-    *   🟡 **Dorado:** Selección sugerida.
+    *    **Verde Oscuro:** Asientos Generales Libres.
+    *    **Verde Neón:** Zona VIP (Mejor visión).
+    *    **Rojo:** Ocupado.
+    *    **Dorado:** Selección sugerida.
 *   **Algoritmo "Best-Fit Centroid":** 
     *   Calcula la distancia euclidiana desde el centro geométrico de la sala hacia los grupos de asientos vacíos.
     *   Garantiza que el usuario siempre reciba la ubicación más céntrica disponible.
 *   **Gestión de Archivos:** Capacidad de importar estados de sala personalizados desde archivos de texto plano (`.txt`) simulando la lectura de discos.
 *   **Zonificación:** Diferenciación lógica y visual entre Zona VIP (Centro) y General.
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 *   **Lenguaje:** C++ (Standard 11 o superior).
 *   **Interfaz:** Consola (CLI) con soporte UTF-8 y ANSI Colors.
 *   **Persistencia:** Lectura de archivos de texto (Streams).
 
-## 📋 Cómo Usar
+## Cómo Usar
 
 ### 1. Compilación
 Puedes compilar el proyecto usando `g++`:
@@ -47,13 +47,13 @@ Ejemplo (`mi_sala.txt`):
 ... (20 filas)
 ```
 
-## 📸 Capturas
+## Capturas
 
 <p align="center">
   <img src="captura.png" alt="Vista del Sistema de Cine" width="700">
 </p>
 
-## ✒️ Autores
+## Autores
 
 *   **[GRUPO 3]** - *Desarrollo y Lógica Algorítmica*
 
